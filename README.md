@@ -86,7 +86,7 @@ The project analyzes:
 
 ## 🖥️ Dashboard Preview
 
-![Excel Dashboard](screenshots/dashboard.png)
+![Excel Dashboard](Excel_Dashboard.png)
 
 ---
 
