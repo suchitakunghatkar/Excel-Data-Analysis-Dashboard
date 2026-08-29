@@ -95,7 +95,7 @@ The project analyzes:
 | File | Description |
 |------|-------------|
 | `Excel_Project.xlsm` | Complete Excel workbook containing analysis, dashboard, charts, and VBA macros |
-| `screenshots/dashboard.png` | Dashboard preview |
+| `Excel_Dashboard.png` | Dashboard preview |
 
 ---
 
